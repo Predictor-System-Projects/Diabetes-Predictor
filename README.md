@@ -12,4 +12,7 @@ This Model predicts if a person is Diabetes Positive or Negative based on the fo
 7) DiabetesPedigreeFunction.  
 8) Age.  
 # Accuracy    
+On Training Data:- 78%   
+On Testing Data:- 77%
 
+NOTE:- A split of 80-20% was done to seperate Training and Testing Data respectively.
